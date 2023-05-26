@@ -1,0 +1,18 @@
+{
+  "app_title": "BOOKING",
+  "language": "Язык",
+  "home": "Главная",
+  "login": "Войти",
+  "registration": "Регистрация",
+  "messages": "Сообщения",
+  "admin_panel": "Админ панель",
+  "statistic": "Статистика",
+  "alerts": "Оповещения",
+  "my_account": "Мой профиль",
+  "settings": "Настройки",
+  "logout": "Выйти",
+
+  "home_page": "BOOKING - Главная страница",
+  "login_page": "BOOKING - Вход",
+  "registration_page": "BOOKING - Регистрация"
+}

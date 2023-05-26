@@ -1,0 +1,18 @@
+.center_form{
+  width: 100%;
+  height: var(--container-content-heigth);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .login_form{
+    max-width: 500px;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 50px 15px;
+  }
+}

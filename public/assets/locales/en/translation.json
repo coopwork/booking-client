@@ -1,0 +1,18 @@
+{
+  "app_title": "BOOKING",
+  "language": "Language",
+  "home": "Home",
+  "login": "Login",
+  "registration": "Registration",
+  "messages": "Messages",
+  "admin_panel": "Admin panel",
+  "statistic": "Statistic",
+  "alerts": "Alerts",
+  "my_account": "My account",
+  "settings": "Settings",
+  "logout": "Logout",
+
+  "home_page": "BOOKING - Home page",
+  "login_page": "BOOKING - Login",
+  "registration_page": "BOOKING - Registration"
+}

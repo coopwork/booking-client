@@ -1,0 +1,6 @@
+:root{
+  --container-content-heigth: 100vh;
+}
+.contentContainer{
+  min-height: var(--container-content-heigth);
+}
